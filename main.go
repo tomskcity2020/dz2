@@ -7,6 +7,10 @@ func main() {
 	var sum1 int = 5
 	var sum2 int = 15
 
-	fmt.Println(sum1 + sum2)
+	var total int
+
+	total = sum1 + sum2
+
+	fmt.Println(total)
 
 }
