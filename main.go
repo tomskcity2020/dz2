@@ -12,5 +12,4 @@ func main() {
 	total = sum1 + sum2
 
 	fmt.Println(total)
-
 }
