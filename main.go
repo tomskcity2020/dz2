@@ -3,5 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(5 + 15)
+
+	var sum1 int = 5
+	var sum2 int = 15
+
+	fmt.Println(sum1 + sum2)
+
 }
